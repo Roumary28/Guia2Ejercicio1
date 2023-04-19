@@ -20,7 +20,7 @@ public class Practica5 {
         int num = leer.nextInt();
         int dobl = num * 2;
         int tri = num*3;
-        int raiz = Math.sqrt(num);
+        //int raiz = Math.sqrt(num);
                                                             
     }
     
